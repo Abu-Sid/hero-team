@@ -13,7 +13,7 @@ function HeroTeam({heroPlayer}) {
                 <h3> Team Member:{heroPlayer.length}</h3>
             </div>
             <div className='team-player'>
-                {/* Show name and salary in selected team area */}
+                {/* Show name and salary of selected player in hero team area */}
             {
                 heroPlayer.map(player => <h5 className='added-player'>{player.name + ' : $' + player.salary}</h5>)
             }
