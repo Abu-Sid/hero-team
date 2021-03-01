@@ -61,42 +61,6 @@
       "image": "https://www.thesportsdb.com/images/media/player/thumb/dzaqec1545557822.jpg"
     },
     {
-      "id": "34161049",
-      "nationality": "France",
-      "name": "Zinedine Zidane",
-      "team": "Real Madrid",
-      "sport": "Soccer",
-      "number": "10",
-      "salary": 4000,
-      "gender": "Male",
-      "position": "Defender",
-      "image": "https://www.thesportsdb.com/images/media/player/thumb/trvvrs1474915622.jpg"
-    },
-    {
-      "id": "34161040",
-      "nationality": "Brazil",
-      "name": "Ronaldo",
-      "team": "Real Madrid",
-      "sport": "Soccer",
-      "number": "9",
-      "salary": 4200,
-      "gender": "Male",
-      "position": "Forward",
-      "image": "https://www.thesportsdb.com/images/media/player/thumb/qvvpxr1474801706.jpg"
-    },
-    {
-      "id": "34166257",
-      "nationality": "Brazil",
-      "name": "Marta",
-      "team": "Orlando Pride",
-      "sport": "Soccer",
-      "number": "89",
-      "salary": 2500,
-      "gender": "Female",
-      "position": "Forward",
-      "image": "https://www.thesportsdb.com/images/media/player/thumb/jyk6fe1552230005.jpg"
-    },
-    {
       "id": "34166235",
       "nationality": "United States",
       "name": "Megan Rapinoe",
@@ -146,18 +110,6 @@
       "image": "https://www.thesportsdb.com/images/media/player/thumb/42t6q71611660010.jpg"
     },
     {
-      "id": "34161176",
-      "nationality": "Spain",
-      "name": "Rafael Nadal",
-      "team": "ATP Mens",
-      "sport": "Tennis",
-      "number": "77",
-      "salary": 4500,
-      "gender": "Male",
-      "position": "Tennis Player",
-      "image": "https://www.thesportsdb.com/images/media/player/thumb/4ec3si1487449801.jpg"
-    },
-    {
       "id": "34161174",
       "nationality": "United States",
       "name": "Serena Williams",
@@ -205,19 +157,6 @@
       "gender": "Male",
       "position": "Wrestler",
       "image": "https://www.thesportsdb.com/images/media/player/thumb/rtxqup1472466638.jpg"
-    },
-    {
-      "id": "34170777",
-      "nationality": "India",
-      "name": "Suresh Raina",
-      "team": "Chennai Kings",
-
-      "sport": "Cricket",
-      "number": "69",
-      "salary": 3000,
-      "gender": "Male",
-      "position": "Batsman",
-      "image": "https://www.thesportsdb.com/images/media/player/thumb/dvd5bk1587725781.jpg"
     },
     {
       "id": "34171536",
