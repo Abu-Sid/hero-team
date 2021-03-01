@@ -1,0 +1,235 @@
+{
+  "players": [
+    {
+      "id": "34146370",
+      "nationality": "Argentina",
+      "name": "Lionel Messi",
+      "team": "Barcelona",
+      "sport": "Soccer",
+      "number": "10",
+      "salary": 6500,
+      "gender": "Male",
+      "position": "Right Wing",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/ino2iw1600892848.jpg"
+    },
+    {
+      "id": "34146304",
+      "nationality": "Portugal",
+      "name": "Cristiano Ronaldo",
+      "team": "Juventus",
+      "sport": "Soccer",
+      "number": "7",
+      "salary": 6000,
+      "gender": "Male",
+      "position": "Left Wing",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/bkre241600892282.jpg"
+    },
+    {
+      "id": "34162040",
+      "nationality": "Argentina",
+      "name": "Diego Maradona",
+      "team": "Boca Juniors",
+      "sport": "Soccer",
+      "number": "10",
+      "salary": 5500,
+      "gender": "Male",
+      "position": "Midfielder",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/z4v3ox1515072958.jpg"
+    },
+    {
+      "id": "34164201",
+      "nationality": "Brazil",
+      "name": "Pelé",
+      "team": "Brazil Samba",
+      "sport": "Soccer",
+      "number": "9",
+      "salary": 5500,
+      "gender": "Male",
+      "position": "Forward",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/dzaqec1545557822.jpg"
+    },
+    {
+      "id": "34161049",
+      "nationality": "France",
+      "name": "Zinedine Zidane",
+      "team": "Real Madrid",
+      "sport": "Soccer",
+      "number": "10",
+      "salary": 4000,
+      "gender": "Male",
+      "position": "Defender",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/trvvrs1474915622.jpg"
+    },
+    {
+      "id": "34161040",
+      "nationality": "Brazil",
+      "name": "Ronaldo",
+      "team": "Real Madrid",
+      "sport": "Soccer",
+      "number": "9",
+      "salary": 4200,
+      "gender": "Male",
+      "position": "Forward",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/qvvpxr1474801706.jpg"
+    },
+    {
+      "id": "34166257",
+      "nationality": "Brazil",
+      "name": "Marta",
+      "team": "Orlando Pride",
+      "sport": "Soccer",
+      "number": "89",
+      "salary": 2500,
+      "gender": "Female",
+      "position": "Forward",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/jyk6fe1552230005.jpg"
+    },
+    {
+      "id": "34166235",
+      "nationality": "United States",
+      "name": "Megan Rapinoe",
+      "team": "Reign FC",
+      "sport": "Soccer",
+      "number": "15",
+      "salary": 3300,
+      "gender": "Female",
+      "position": "Left Wing",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/99q4421552157193.jpg"
+    },
+    {
+      "id": "34153736",
+      "nationality": "USA",
+      "name": "Kobe Bryant",
+      "team": "Boston Celtics",
+      "sport": "Basketball",
+      "number": "44",
+
+      "salary": 3000,
+      "gender": "Male",
+      "position": "Shooting Guard",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/ibdm881526808525.jpg"
+    },
+    {
+      "id": "34153733",
+      "nationality": "USA",
+      "name": "LeBron James",
+      "team": "Los Angeles Lakers",
+      "sport": "Basketball",
+      "number": "33",
+      "salary": 5000,
+      "gender": "Male",
+      "position": "Small Forward",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/uzr42t1540061318.jpg"
+    },
+    {
+      "id": "34161173",
+      "nationality": "Switzerland",
+      "name": "Roger Federer",
+      "team": "ATP Mens",
+      "sport": "Tennis",
+      "number": "99",
+      "salary": 5200,
+      "gender": "Male",
+      "position": "Tennis Player",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/42t6q71611660010.jpg"
+    },
+    {
+      "id": "34161176",
+      "nationality": "Spain",
+      "name": "Rafael Nadal",
+      "team": "ATP Mens",
+      "sport": "Tennis",
+      "number": "77",
+      "salary": 4500,
+      "gender": "Male",
+      "position": "Tennis Player",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/4ec3si1487449801.jpg"
+    },
+    {
+      "id": "34161174",
+      "nationality": "United States",
+      "name": "Serena Williams",
+      "team": "WTA Tour Womens",
+      "sport": "Tennis",
+      "number": "66",
+      "salary": 3500,
+      "gender": "Female",
+
+      "position": "Tennis Player",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/g5tx8q1550426629.jpg"
+    },
+    {
+      "id": "34159843",
+      "nationality": "United States",
+      "name": "Tiger Woods",
+      "team": "PGA Tour Golfers",
+      "sport": "Golf",
+      "number": "101",
+      "salary": 5500,
+      "gender": "Male",
+      "position": "Golfer",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/zjnlxk1578661256.jpg"
+    },
+    {
+      "id": "34160695",
+      "nationality": "United States",
+      "name": "The Rock",
+      "team": "WWE Raw Mens",
+      "sport": "Fighting",
+      "number": "007",
+      "salary": 7000,
+      "gender": "Male",
+      "position": "Wrestler",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/vryqxs1472466609.jpg"
+    },
+    {
+      "id": "34160739",
+      "nationality": "United States",
+      "name": "John Cena",
+      "team": "WWE Mens",
+      "sport": "Fighting",
+      "number": "00",
+      "salary": 6600,
+      "gender": "Male",
+      "position": "Wrestler",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/rtxqup1472466638.jpg"
+    },
+    {
+      "id": "34170777",
+      "nationality": "India",
+      "name": "Suresh Raina",
+      "team": "Chennai Kings",
+
+      "sport": "Cricket",
+      "number": "69",
+      "salary": 3000,
+      "gender": "Male",
+      "position": "Batsman",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/dvd5bk1587725781.jpg"
+    },
+    {
+      "id": "34171536",
+      "nationality": "Pakistan",
+      "name": "Babar Azam",
+      "team": "Lahore Star",
+      "sport": "Cricket",
+      "number": "49",
+      "salary": 4000,
+      "gender": "Male",
+      "position": "Batsman",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/z92xqu1591971782.jpg"
+    },
+    {
+      "id": "34171670",
+      "nationality": "Russia",
+      "name": "Khabib Nurmagomedov",
+      "team": "UFC Mens",
+      "sport": "Fighting",
+      "number": "22",
+      "salary": 5000,
+      "gender": "Male",
+      "position": "Fighter",
+      "image": "https://www.thesportsdb.com/images/media/player/thumb/cg7bup1593610337.jpg"
+    }
+  ]
+}

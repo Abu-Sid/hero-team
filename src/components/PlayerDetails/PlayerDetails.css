@@ -1,0 +1,30 @@
+.card-container {
+  border: 2px solid royalblue;
+  border-radius: 10px;
+  background-color: burlywood;
+  box-shadow: 5px 5px 5px gray;
+}
+.card-container:hover {
+  background-color: lightgray;
+}
+.profile-image > img {
+  border: 5px solid white;
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+.add-button {
+  position: relative;
+  left: 127px;
+  bottom: 43px;
+  border-radius: 10px;
+  background-color: goldenrod;
+}
+.player-info {
+  display: flex;
+  justify-content: space-around;
+}
+.personal-info,
+.team-info {
+  text-align: start;
+}

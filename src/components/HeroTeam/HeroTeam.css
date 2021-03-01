@@ -1,0 +1,14 @@
+.team-container {
+  background-color: burlywood;
+  border-radius: 10px;
+  position: absolute;
+  width: 29%;
+  box-shadow: 3px 3px 5px gray;
+  border: 2px solid royalblue;
+}
+.added-player {
+  border: 2px dotted royalblue;
+  border-radius: 15px;
+  margin: 10px;
+  padding: 5px;
+}

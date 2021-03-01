@@ -1,3 +1,15 @@
 .App {
   text-align: center;
+  background-color: lightblue;
+}
+.welcome-area {
+  font-size: 60px;
+  height: 100px;
+  margin: 15px 30px;
+  background-color: rgb(221, 154, 67);
+  border-radius: 50px;
+}
+.welcome-area:hover {
+  color: aliceblue;
+  background-color: coral;
 }

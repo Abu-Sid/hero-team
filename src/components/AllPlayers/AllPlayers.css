@@ -1,0 +1,17 @@
+.main-section {
+  display: flex;
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.player-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+.hero-team {
+  width: 30%;
+  height: auto;
+  margin: 5px;
+}
